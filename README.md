@@ -1,5 +1,5 @@
-## Curriculum Interactivo v.1
+## Currículum Interactivo v.1
 
 ###Descripción
 
-Portafolio web más información personal de contacto y habilidades
+Portafolio web, además de información personal de contacto y habilidades
